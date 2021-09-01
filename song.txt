@@ -4,6 +4,3 @@ la la
 la la
 ghj gj 
 dc cd
-
-some content
-and here!
